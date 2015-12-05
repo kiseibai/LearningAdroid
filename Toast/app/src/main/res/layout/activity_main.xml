@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="5dp"
+    tools:context=".MainActivity">
+
+
+    <Button
+        android:id="@+id/original"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="默认式样" />
+
+    <Button
+        android:id="@+id/byphoto"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="带图片式样" />
+
+    <Button
+        android:id="@+id/customposition"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="自定义显示位置式样" />
+
+    <Button
+        android:id="@+id/alldiy"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="完全自定义式样" />
+
+    <Button
+        android:id="@+id/bythread"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="来自其他线程式样" />
+</LinearLayout>

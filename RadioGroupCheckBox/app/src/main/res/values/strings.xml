@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RadioGroupCheckBox</string>
+    <string name="male">男</string>
+    <string name="female">女</string>
+    <string name="football">足球</string>
+    <string name="basketball">篮球</string>
+    <string name="submit">保存</string>
+</resources>

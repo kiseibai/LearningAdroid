@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="proarray">
+        <item>山东</item>
+        <item>江苏</item>
+        <item>上海</item>
+        <item>浙江</item>
+        <item>福建</item>
+        <item>广东</item>
+    </string-array>
+</resources>
